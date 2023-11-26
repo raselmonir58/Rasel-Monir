@@ -1,3 +1,1 @@
 # Rasel-Monir
-
-#Skill
