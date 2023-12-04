@@ -1,7 +1,8 @@
 # Rasel Monir
-# About Me
+Welcome to my GitHub repository!
+## About Me
 I'm from the department of Computer Science & Engineering (CSE). I have almost completed my undergraduate from American International University-Bangladesh (AIUB). My goal is to be a professional Web Developer and Network Engineer.
-# Skills
+## Skills
 - C
 - C++
 - HTML
@@ -10,7 +11,7 @@ I'm from the department of Computer Science & Engineering (CSE). I have almost c
 - JS
 - MySQL
 - Microsoft Office
-# Contact
+## Contact
 Email: raselmonir58@gmail.com
 Facebook: https://www.facebook.com/raselmonir58r
 Linkedin: https://www.linkedin.com/in/raselmonir58/
