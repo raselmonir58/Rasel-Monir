@@ -3,8 +3,7 @@ Welcome to my GitHub!
 ## About Me
 I'm from the department of Computer Science & Engineering (CSE). I have almost completed my undergraduate from American International University-Bangladesh (AIUB). My goal is to be a professional Web Developer and Network Engineer.
 ## Skills
-- C
-- C++
+- C & C++
 - HTML
 - CSS
 - PHP
