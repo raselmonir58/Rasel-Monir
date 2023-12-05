@@ -12,6 +12,6 @@ I'm from the department of Computer Science & Engineering (CSE). I have almost c
 - MySQL
 - Microsoft Office
 ## Contact
-Email: raselmonir58@gmail.com
-Facebook: https://www.facebook.com/raselmonir58r
-Linkedin: https://www.linkedin.com/in/raselmonir58/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raselmonir58-blue)](https://www.linkedin.com/in/raselmonir58/)
+[![Facebook](https://img.shields.io/badge/Facebook-raselmonir58r-blue)](https://www.facebook.com/raselmonir58r)
+[![Instagram](https://img.shields.io/badge/Instagram-_rasel_monir_-blue)](https://www.instagram.com/_rasel_monir_/)
