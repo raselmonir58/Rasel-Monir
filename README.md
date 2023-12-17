@@ -12,8 +12,8 @@ I'm from the department of Computer Science & Engineering (CSE). I have almost c
 - Microsoft Office
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raselmonir58-orange)](https://www.linkedin.com/in/raselmonir58/)
-[![Facebook](https://img.shields.io/badge/Facebook-raselmonir58r-red)](https://www.facebook.com/raselmonir58r)
-[![Instagram](https://img.shields.io/badge/Instagram-_rasel_monir_-red)](https://www.instagram.com/_rasel_monir_/)
-![Email](https://img.shields.io/badge/Email-raselmonir58@gmail.com-red)
+[![Facebook](https://img.shields.io/badge/Facebook-raselmonir58r-orange)](https://www.facebook.com/raselmonir58r)
+[![Instagram](https://img.shields.io/badge/Instagram-_rasel_monir_-orange)](https://www.instagram.com/_rasel_monir_/)
+![Email](https://img.shields.io/badge/Email-raselmonir58@gmail.com-orange)
 
 Thank You!
