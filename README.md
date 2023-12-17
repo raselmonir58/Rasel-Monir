@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm Md. Rasel Monir Siddik</h1>
+<h1>Hi 👋, I'm Md. Rasel Monir</h1>
+Welcome to my GitHub!
 
 ## About Me
 I'm from the department of Computer Science & Engineering (CSE). I have almost completed my undergraduate from American International University-Bangladesh (AIUB). My goal is to be a professional Network Engineer.
@@ -14,6 +15,10 @@ I'm from the department of Computer Science & Engineering (CSE). I have almost c
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a></p> 
 
+## Skills on Networking
+- RIP, OSPF, VLAN, VLSM, DNS, DHCP
+- Static and Dynamic NAT, Virtual Link
+
 ## Contact
 ![Mobile](https://img.shields.io/badge/Mobile-01518646727-orange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raselmonir58-orange)](https://www.linkedin.com/in/raselmonir58/)
@@ -21,4 +26,4 @@ I'm from the department of Computer Science & Engineering (CSE). I have almost c
 [![Instagram](https://img.shields.io/badge/Instagram-_rasel_monir_-orange)](https://www.instagram.com/_rasel_monir_/)
 ![Email](https://img.shields.io/badge/Email-raselmonir58@gmail.com-orange)
 
-<h3 align="center">Thank You!</h3>
+<h2 align="center">Thank You!</h2>
